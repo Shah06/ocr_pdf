@@ -1,5 +1,5 @@
 # ocr_pdf
-Simple python3 script to make PDF searchable. Make to make my life easier when scanning schoolwork.
+Simple python3 script to make PDF searchable. Made to make my life easier when scanning schoolwork.
 
 ### Requirements:
 1. [Tesseract](https://github.com/tesseract-ocr/tesseract). Tested with 4.1.1
